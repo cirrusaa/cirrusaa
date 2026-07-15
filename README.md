@@ -8,3 +8,7 @@
 
   
 . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
+
+align="center">
+  
+![](https://komarev.com/ghpvc/?username=ТУТТВОЙЮЗ&label=^__^&color=202225&style=plastic)

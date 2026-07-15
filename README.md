@@ -6,4 +6,5 @@
 <p align="center">
 
 <img src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8698.PNG" width="450">
-катя дура
+
+:3

@@ -1,7 +1,6 @@
 <div id="header" align="center">
   
-   
-  <img src="https://i.postimg.cc/3rZRr3CS/2684b4b86ba5355d104587b0030f0d100f353142.webp"> `✦ <img src="https://i.postimg.cc/tRrBYYT7/un2aha.png">
+   <img src="https://i.postimg.cc/3rZRr3CS/2684b4b86ba5355d104587b0030f0d100f353142.webp"> `✦ <img src="https://i.postimg.cc/tRrBYYT7/un2aha.png">
 <p align="center">
 
 <img src="https://file.garden/aOzMKcIeICuTJJmk/IMG_8698.PNG" width="450">

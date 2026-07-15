@@ -5,4 +5,4 @@
 
 <p align="center">
 
-<img src="https://vk.com/away.php?to=https%3A%2F%2Ffile.garden%2FaOzMKcIeICuTJJmk%2FIMG_8698.PNGutf=1" width=“500”>
+<img src="https://vk.com/away.php?to=https%3A%2F%2Ffile.garden%2FaOzMKcIeICuTJJmk%2FIMG_8698.PNG utf=1" width=“500”>

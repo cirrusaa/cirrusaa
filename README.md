@@ -9,6 +9,6 @@
   
 . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 
-align="center">
+
   
 ![](https://komarev.com/ghpvc/?username=cirrusaa&label=^__^&color=202225&style=plastic)
